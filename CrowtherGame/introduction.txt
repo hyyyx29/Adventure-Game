@@ -1,0 +1,18 @@
+Welcome to the game of Adventure.
+
+This game is called "Collosal Cave Adventure".  The story was originally
+written in 1976 by developer Will Crowther.
+
+To play, a player moves between locations and interacts with objects by
+typing one or two word commands.
+
+The game is based on Crowther's experiences caving in Mammoth Cave in
+Kentucky and it was intended to be accessible to his two daughters.
+
+You can consider extending or adding to this game for your final project.
+You can add sounds to it to make it more accessible, for example.
+You may want to add new features, like dragons or spells.
+
+LET THE GAME BEGIN.
+
+************************************************************************
